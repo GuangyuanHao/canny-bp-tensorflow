@@ -11,12 +11,11 @@ class cannybp(object):
 
         self.image = tf.placeholder(tf.float32, [None,32,32,3],name="image")
         self.canny = canny(self.image, low=0.20 * 255., high=0.40 * 255.)
-        self.gray = rgb2gray(self.image)
 
     def train(self):
         print("train")
         init = tf.global_variables_initializer()
-        sess = tf.Session()
+        sess = tf.Session().
         sess.run(init)
         Lena = scipy.misc.imread("/home/guangyuan/conclusion/canny-bp-tensorflow/05.jpg")\
             .reshape(1, 32, 32, 3).astype(np.float32)
