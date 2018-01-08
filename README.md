@@ -1,7 +1,7 @@
 # canny-bp-tensorflow
 Back propagation can be used in canny-bp-version because step functions in canny were taken place of continuous functions.
 # Results on digits:
-digits
+##digits
 ![1](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/01.jpg)
 ![2](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/02.jpg)
 ![3](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/03.jpg)
@@ -9,7 +9,7 @@ digits
 ![5](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/05.jpg)
 ![6](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/06.jpg)
 ![7](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/07.jpg)
-\ Results
+##Results
 ![c1](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c01.jpg)
 ![c2](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c02.jpg)
 ![c3](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c03.jpg)
@@ -18,5 +18,7 @@ digits
 ![c6](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c06.jpg)
 ![c7](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c07.jpg)
 # Results on Lena's image:
+##image
 ![lena](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/lena.jpg)
+##edge
 ![tlena](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/lenacannybp.jpg)
