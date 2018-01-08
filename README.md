@@ -18,7 +18,5 @@ Back propagation can be used in canny-bp-version because step functions in canny
 ![c6](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c06.jpg)
 ![c7](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c07.jpg)
 ## Results on Lena's image:
-### image
-![lena](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/lena.jpg)
-### edge
-![tlena](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/lenacannybp.jpg)
+![lena](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/imagesfortest/lena.jpg)
+![tlena](https://github.com/GuangyuanHao/canny-tensorflow/raw/master/results/lenacanny.jpg)
