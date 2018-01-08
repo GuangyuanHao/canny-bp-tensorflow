@@ -9,7 +9,7 @@ digits
 ![5](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/05.jpg)
 ![6](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/06.jpg)
 ![7](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/imagesfortest/07.jpg)
-Results
+\ Results
 ![c1](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c01.jpg)
 ![c2](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c02.jpg)
 ![c3](https://github.com/GuangyuanHao/canny-bp-tensorflow/raw/master/results/c03.jpg)
