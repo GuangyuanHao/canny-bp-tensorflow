@@ -1,4 +1,4 @@
-# canny-bp-tensorflow
+# Canny TensorFlow Version for Back Propagation
 Back propagation can be used in canny-bp-version because step functions in canny were taken place of continuous functions.
 ## Results on digits:
 ### digits
